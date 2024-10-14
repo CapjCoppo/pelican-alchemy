@@ -84,7 +84,7 @@ In your Pelican site:
 
 ```bash
 mkdir themes
-git submodule add https://github.com/nairobilug/pelican-alchemy themes/pelican-alchemy
+git submodule add https://github.com/CapjCoppo/pelican-alchemy.git themes/pelican-alchemy
 ```
 
 And in Pelican config:
